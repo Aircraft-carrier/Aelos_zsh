@@ -1,0 +1,2 @@
+detection_msgs:image_processing:my_simple_pkg:yolov5_ros
+-DCATKIN_DEVEL_PREFIX=/home/aircraft/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aircraft/catkin_ws/install -G Unix Makefiles
